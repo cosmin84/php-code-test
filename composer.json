@@ -1,0 +1,13 @@
+{
+    "name": "cosmin/php-code-test",
+    "authors": [
+        {
+            "name": "Cosmin Chiru",
+            "email": "cosmin.chiru@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
